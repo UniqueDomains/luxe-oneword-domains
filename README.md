@@ -67,22 +67,22 @@ print(df.head())
 | seventeen.luxe  | available | $27.99     | $27.99        | 84             | 62     | 9      | name.com                                                |
 | energy.luxe     | resell    | $37,060.64 | —             | 78             | 43     | 6      | Dynadot Inc                                             |
 | nationwide.luxe | premium   | $2,500     | $27.99        | 76             | 66     | 10     | name.com                                                |
-| fast.luxe       | available | $27.99     | $27.99        | 82             | 53     | 4      | name.com                                                |
+| fast.luxe       | available | $27.99     | $27.99        | 82             | 52     | 4      | name.com                                                |
 | quick.luxe      | resell    | $27.99     | $27.99        | 72             | 41     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | live.luxe       | premium   | $1,000     | $27.99        | 108            | 56     | 4      | name.com                                                |
 | creator.luxe    | available | $27.99     | $27.99        | 70             | 45     | 7      | name.com                                                |
 | mint.luxe       | resell    | —          | —             | 72             | 78     | 4      | GoDaddy.com, LLC                                        |
 | zero.luxe       | premium   | $1,000     | $27.99        | 112            | 53     | 4      | name.com                                                |
-| forge.luxe      | available | $27.99     | $27.99        | 62             | 45     | 5      | name.com                                                |
+| forge.luxe      | available | $27.99     | $27.99        | 62             | 44     | 5      | name.com                                                |
 | fire.luxe       | resell    | —          | —             | 70             | 75     | 4      | GoDaddy.com, LLC                                        |
-| design.luxe     | premium   | $2,500     | $27.99        | 108            | 50     | 6      | name.com                                                |
+| design.luxe     | premium   | $2,500     | $27.99        | 108            | 49     | 6      | name.com                                                |
 | track.luxe      | available | $27.99     | $27.99        | 94             | 42     | 5      | name.com                                                |
 | boss.luxe       | resell    | —          | —             | 76             | 73     | 4      | GoDaddy.com, LLC                                        |
 | clear.luxe      | premium   | $100       | $27.99        | 90             | 49     | 5      | name.com                                                |
-| forward.luxe    | available | $27.99     | $27.99        | 68             | 39     | 7      | name.com                                                |
+| gather.luxe     | available | $27.99     | $27.99        | 96             | 39     | 6      | name.com                                                |
 | hello.luxe      | resell    | —          | —             | 130            | 70     | 5      | Spaceship, Inc.                                         |
 | travel.luxe     | premium   | $5,520     | $17.70        | 115            | 48     | 6      | namesilo                                                |
-| gather.luxe     | available | $27.99     | $27.99        | 96             | 38     | 6      | name.com                                                |
+| forward.luxe    | available | $27.99     | $27.99        | 68             | 39     | 7      | name.com                                                |
 | fuck.luxe       | resell    | —          | —             | 124            | 70     | 4      | GoDaddy.com, LLC                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
