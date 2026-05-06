@@ -1,10 +1,10 @@
-# Available .LUXE One-Word Domains (12,693)
+# Available .LUXE One-Word Domains (12,695)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C693%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C695%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .luxe one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,693 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,695 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,693 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,695 domains · **Median ask:** $140.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/luxe`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| donuts.luxe       | available | $27.99    | —             | 54             | 62     | 6      | name.com                                                |
-| online.luxe       | resell    | —         | —             | 70             | 62     | 7      | GoDaddy.com, LLC                                        |
-| robots.luxe       | premium   | $500      | —             | 62             | 47     | 6      | name.com                                                |
-| gods.luxe         | available | $27.99    | —             | 72             | 27     | 4      | name.com                                                |
-| coins.luxe        | resell    | —         | —             | 56             | 41     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| stories.luxe      | premium   | $500      | —             | 58             | 36     | 7      | name.com                                                |
-| drops.luxe        | available | $27.99    | —             | 52             | 25     | 5      | name.com                                                |
-| spaces.luxe       | resell    | —         | —             | 54             | 30     | 6      | GoDaddy.com, LLC                                        |
-| etc.luxe          | premium   | $250      | —             | 58             | 34     | 3      | name.com                                                |
-| pops.luxe         | available | $19.49    | $19.49        | 74             | 24     | 4      | namesilo                                                |
-| videos.luxe       | resell    | —         | —             | 52             | 30     | 6      | GoDaddy.com, LLC                                        |
-| partners.luxe     | premium   | $1,000    | —             | 61             | 32     | 8      | name.com                                                |
-| loans.luxe        | available | $19.49    | $19.49        | 58             | 24     | 5      | namesilo                                                |
-| sites.luxe        | resell    | —         | —             | 53             | 26     | 5      | GoDaddy.com, LLC                                        |
-| trends.luxe       | premium   | $500      | —             | 60             | 32     | 6      | name.com                                                |
-| echoes.luxe       | available | $19.49    | $19.49        | 56             | 24     | 6      | namesilo                                                |
-| girls.luxe        | resell    | —         | —             | 83             | 23     | 5      | GoDaddy.com, LLC                                        |
-| rewards.luxe      | premium   | $500      | —             | 62             | 30     | 7      | name.com                                                |
-| deeplearning.luxe | available | $27.99    | —             | 74             | 23     | 13     | name.com                                                |
-| pros.luxe         | resell    | —         | —             | 53             | 23     | 4      | GoDaddy.com, LLC                                        |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| NYC.luxe     | premium   | —         | —             | 82             | 38     | 3      | —                                                       |
+| Acup.luxe    | premium   | —         | —             | 80             | 5      | 5      | —                                                       |
+| Trex.luxe    | premium   | —         | —             | 80             | 24     | 5      | —                                                       |
+| WiFi.luxe    | premium   | —         | —             | 83             | 37     | 5      | —                                                       |
+| geton.luxe   | available | $27.99    | —             | 82             | 10     | 6      | name.com                                                |
+| dogsit.luxe  | available | $27.99    | —             | 96             | 2      | 6      | name.com                                                |
+| edamame.luxe | available | $19.49    | $19.49        | 80             | 9      | 7      | namesilo                                                |
+| playin.luxe  | available | $27.99    | —             | 80             | 10     | 7      | name.com                                                |
+| stirup.luxe  | available | $27.99    | —             | 82             | 3      | 7      | name.com                                                |
+| MacBook.luxe | premium   | —         | —             | 90             | 74     | 7      | —                                                       |
+| donuts.luxe  | available | $27.99    | —             | 54             | 62     | 6      | name.com                                                |
+| online.luxe  | resell    | —         | —             | 70             | 62     | 7      | GoDaddy.com, LLC                                        |
+| robots.luxe  | premium   | $500      | —             | 62             | 47     | 6      | name.com                                                |
+| gods.luxe    | available | $27.99    | —             | 72             | 27     | 4      | name.com                                                |
+| coins.luxe   | resell    | —         | —             | 56             | 41     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| stories.luxe | premium   | $500      | —             | 58             | 36     | 7      | name.com                                                |
+| drops.luxe   | available | $27.99    | —             | 52             | 25     | 5      | name.com                                                |
+| spaces.luxe  | resell    | —         | —             | 54             | 30     | 6      | GoDaddy.com, LLC                                        |
+| etc.luxe     | premium   | $250      | —             | 58             | 34     | 3      | name.com                                                |
+| pops.luxe    | available | $19.49    | $19.49        | 74             | 24     | 4      | namesilo                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,693 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,695 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all in the .luxe extension, which gives the set a premium, luxury-leaning positioning by default. At a median ask of $140.97, the pricing starts in a range that can be workable for both budget-aware founders and investors testing small bets. The key is selectivity. Generic terms such as finals.luxe or forces.luxe may be easier to evaluate on plain meaning, while names like NYC.luxe can carry place-based appeal. Short strings such as Acup.luxe or geton.luxe may feel brandable, but clarity matters. Avoid obvious trademark conflicts in this set, including names like Gmail.luxe, Chanel.luxe, and likely Trex.luxe.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer clear words over obscure strings in .luxe
+- Median ask in this set is $140.97
+- Treat famous brands as high trademark risk
+- Check whether the word fits a luxury positioning
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LUXE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LUXE One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
