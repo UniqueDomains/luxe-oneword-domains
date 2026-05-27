@@ -77,12 +77,12 @@ print(df.head())
 | donuts.luxe  | available | $27.99    | —             | 54             | 62     | 6      | name.com                                                |
 | online.luxe  | resell    | —         | —             | 70             | 62     | 7      | GoDaddy.com, LLC                                        |
 | robots.luxe  | premium   | $500      | —             | 62             | 47     | 6      | name.com                                                |
-| gods.luxe    | available | $27.99    | —             | 72             | 27     | 4      | name.com                                                |
+| gods.luxe    | available | $27.99    | —             | 72             | 29     | 4      | name.com                                                |
 | coins.luxe   | resell    | —         | —             | 56             | 41     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | stories.luxe | premium   | $500      | —             | 58             | 36     | 7      | name.com                                                |
 | drops.luxe   | available | $27.99    | —             | 52             | 25     | 5      | name.com                                                |
 | spaces.luxe  | resell    | —         | —             | 54             | 30     | 6      | GoDaddy.com, LLC                                        |
-| etc.luxe     | premium   | $250      | —             | 58             | 34     | 3      | name.com                                                |
+| trends.luxe  | premium   | $500      | —             | 60             | 32     | 6      | name.com                                                |
 | pops.luxe    | available | $19.49    | $19.49        | 74             | 24     | 4      | namesilo                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
