@@ -1,10 +1,10 @@
-# Available .LUXE One-Word Domains (12,703)
+# Available .LUXE One-Word Domains (13,656)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C703%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C656%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .luxe one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,703 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,656 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,703 domains · **Median ask:** $152.65 · **High-demand under $2,500:** 10
+**Public extract:** 1,000 rows · **Live catalog:** 13,656 domains · **Median ask:** $137.46 · **High-demand under $2,500:** 11
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/tld/luxe`
 **Best for:** founders, investors, studios
 
@@ -72,17 +72,17 @@ print(df.head())
 | any.luxe  | premium   | $250      | —             | high           | medium | 3      | name.com         |
 | alky.luxe | available | $19.49    | $19.49        | low            | low    | 4      | namesilo         |
 | cook.luxe | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| arc.luxe  | premium   | $242      | $17.70        | medium         | medium | 3      | namesilo         |
+| auld.luxe | available | $19.49    | $19.49        | low            | low    | 4      | namesilo         |
+| just.luxe | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
 | bae.luxe  | premium   | $242      | $17.70        | high           | low    | 3      | namesilo         |
 | avon.luxe | available | $19.49    | $19.49        | high           | low    | 4      | namesilo         |
-| just.luxe | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| love.luxe | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
 | bow.luxe  | premium   | $242      | $17.70        | high           | low    | 3      | namesilo         |
 | beam.luxe | available | $19.49    | $19.49        | medium         | medium | 4      | namesilo         |
-| love.luxe | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| play.luxe | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
 | clx.luxe  | premium   | $242      | $17.70        | low            | low    | 3      | namesilo         |
 | bump.luxe | available | $19.49    | $19.49        | medium         | low    | 4      | namesilo         |
-| play.luxe | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| cup.luxe  | premium   | $1,000    | —             | high           | low    | 3      | name.com         |
-| busy.luxe | available | $19.49    | $19.49        | high           | low    | 4      | namesilo         |
 | snow.luxe | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,703 live domains                        |
+| 1,000-row public sample | 13,656 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 10 high-demand names under $2,500          |
+| Basic exported fields   | 11 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LUXE One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LUXE One-Word Domains*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
