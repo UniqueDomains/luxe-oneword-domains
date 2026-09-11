@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .luxe one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,192 domains · **Median ask:** $103.92 · **High-demand under $2,500:** 16
 
-**Last updated:** 2026-09-10
+**Last updated:** 2026-09-11
 **Canonical page:** `https://unique.domains/domains/tld/luxe`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,6 @@ print(df.head())
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | half.luxe | available | $19.49    | $19.49        | high           | low    | 4      | namesilo         |
-| yes.luxe  | premium   | $242      | $17.70        | high           | medium | 3      | namesilo         |
 | xci.luxe  | available | $27.99    | $27.99        | low            | low    | 3      | name.com         |
 | aids.luxe | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
 | aaa.luxe  | premium   | $242      | $17.70        | high           | medium | 3      | namesilo         |
@@ -84,6 +83,7 @@ print(df.head())
 | beam.luxe | available | $19.49    | $19.49        | medium         | medium | 4      | namesilo         |
 | play.luxe | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
 | clx.luxe  | premium   | $242      | $17.70        | low            | low    | 3      | namesilo         |
+| bump.luxe | available | $19.49    | $19.49        | medium         | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LUXE One-Word Domains*. Version 2026-09-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LUXE One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
