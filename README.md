@@ -1,10 +1,10 @@
-# Available .LUXE One-Word Domains (29,942)
+# Available .LUXE One-Word Domains (32,327)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C942%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C327%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .luxe one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,942 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,327 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,942 domains · **Median ask:** $129.93 · **High-demand under $2,500:** 45
+**Public extract:** 1,000 rows · **Live catalog:** 32,327 domains · **Median ask:** $125.81 · **High-demand under $2,500:** 57
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/luxe`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| bbc.luxe    | available | $19.49    | $19.49        | high           | medium | 3      | namesilo         |
-| food.luxe   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| amc.luxe    | premium   | $242      | $17.70        | high           | medium | 3      | namesilo         |
-| hwy.luxe    | available | $16.27    | $16.27        | medium         | low    | 3      | dynadot          |
-| mini.luxe   | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC |
-| bia.luxe    | premium   | $207.20   | $15.73        | medium         | low    | 3      | spaceship        |
-| acad.luxe   | available | $15.73    | $15.73        | high           | low    | 4      | spaceship        |
-| news.luxe   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| bid.luxe    | premium   | $242      | $17.70        | high           | low    | 3      | namesilo         |
-| amok.luxe   | available | $19.49    | $19.49        | high           | low    | 4      | namesilo         |
-| adult.luxe  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| ccp.luxe    | premium   | $242      | $17.70        | high           | low    | 3      | namesilo         |
-| army.luxe   | available | $19.49    | $19.49        | high           | low    | 4      | namesilo         |
-| suits.luxe  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| doc.luxe    | premium   | $242      | $17.70        | high           | medium | 3      | namesilo         |
-| asin.luxe   | available | $19.49    | $19.49        | high           | low    | 4      | namesilo         |
-| market.luxe | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
-| inn.luxe    | premium   | $242      | $17.70        | high           | low    | 3      | namesilo         |
-| blah.luxe   | available | $19.49    | $19.49        | high           | low    | 4      | namesilo         |
-| picnic.luxe | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| bbc.luxe    | available | $19.49    | $19.49        | high           | medium | 3      | namesilo                                            |
+| food.luxe   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                    |
+| amc.luxe    | premium   | $242      | $17.70        | high           | medium | 3      | namesilo                                            |
+| hwy.luxe    | available | $16.27    | $16.27        | medium         | low    | 3      | dynadot                                             |
+| mini.luxe   | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC                                    |
+| bia.luxe    | premium   | $207.20   | $15.73        | medium         | low    | 3      | spaceship                                           |
+| amok.luxe   | available | $19.49    | $19.49        | high           | low    | 4      | namesilo                                            |
+| news.luxe   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                    |
+| bid.luxe    | premium   | $242      | $17.70        | high           | low    | 3      | namesilo                                            |
+| asin.luxe   | available | $19.49    | $19.49        | high           | low    | 4      | namesilo                                            |
+| adult.luxe  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                    |
+| cda.luxe    | premium   | $218.86   | $16.90        | high           | medium | 3      | porkbun                                             |
+| blah.luxe   | available | $19.49    | $19.49        | high           | low    | 4      | namesilo                                            |
+| suits.luxe  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                    |
+| doc.luxe    | premium   | $242      | $17.70        | high           | medium | 3      | namesilo                                            |
+| blur.luxe   | available | $19.49    | $19.49        | high           | low    | 4      | namesilo                                            |
+| picnic.luxe | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                                    |
+| fca.luxe    | premium   | $220      | $16.27        | high           | low    | 3      | dynadot                                             |
+| bmdo.luxe   | available | $19.49    | $19.49        | medium         | low    | 4      | namesilo                                            |
+| purple.luxe | resell    | —         | —             | high           | medium | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,942 live domains                        |
+| 1,000-row public sample | 32,327 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 45 high-demand names under $2,500          |
+| Basic exported fields   | 57 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LUXE One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LUXE One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
